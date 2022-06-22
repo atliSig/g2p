@@ -1,4 +1,4 @@
-numpy==1.18.3
+numpy==1.22.0
 sequitur-g2p==1.0.1668.6
 six==1.14.0
 tqdm==4.45.0
